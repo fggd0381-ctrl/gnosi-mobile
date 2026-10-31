@@ -1,0 +1,6 @@
+name: Build Android App
+jobs:
+  build_android:
+    type: build
+    params:
+      platform: android
